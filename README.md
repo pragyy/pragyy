@@ -12,4 +12,5 @@
 - 🌱 I’m currently learning AI services provided by Microsoft Azure
 - 🤔 I’m looking for help with sharing my knowledge with the world in a fun and interactive way.
 - 📫 How to reach me: pragyasurendra.verma@gmail.com or [LinkedIn](https://www.linkedin.com/in/verma-pragya/) inmail.
-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragyy&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragyy&theme=monokai)
